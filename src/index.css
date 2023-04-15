@@ -1,0 +1,9 @@
+body {
+  width: 800px;
+  margin: 20px auto;
+  text-align: center;
+}
+a {
+  display: block;
+  margin-top: 10px;
+}
